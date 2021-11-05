@@ -25,6 +25,10 @@
 ```bash
 > node . [<session name>] (session name is optional)
 ```
+## ```Deploy```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Danz-X/Danz-Bot/)
+
 
 ---------
 
