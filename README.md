@@ -9,7 +9,7 @@
 <a href="https://github.com/Danz-X/Danz-Bot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Danz-X/Danz-Bot?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Bot
-[`Group Whatsapp`](https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM)
+[`Group Whatsapp`](https://chat.whatsapp.com/Bj2HEOjVyym3D4XtN9SpRZ)
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
@@ -45,5 +45,4 @@
 --------------
 
 ### Thanks To 
-[`@Nurutomo`](https://github.com/Nurutomo)
 [`@Danz-X`](https://github.com/Danz-X)
