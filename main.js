@@ -104,7 +104,7 @@ if (opts['test']) {
     process.send(line.trim())
   })
   conn.connect().then(() => {
- conn.sendMessage('6282228324101@c.us', 'JANGAN LUPA SUBS DANZ BOT, 'conversation');
+ conn.sendMessage('6281252009563@c.us', 'JANGAN LUPA SUBS DANZ BOT, 'conversation');
     fs.writeFileSync(authFile, JSON.stringify(conn.base64EncodedAuthInfo(), null, '\t'))
     global.timestamp.connect = new Date
   })
